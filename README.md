@@ -2,6 +2,8 @@ Machine Learning Regression Problem: Used Car Price Prediction
 
 The dataset was from Kaggle. The link is https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset/data. You are free to use my code as it can directly load the data without downloading it.
 
+The Python version I use is Python 3.12.5.
+
 This code aims to predict the price using machine learning using this dataset.
 
 First, load the data, and follow the EDA.
